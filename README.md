@@ -4,7 +4,7 @@
 
 This project explores the 2017 immunization data from the Centers for Disease Control and Prevention (CDC) to analyze various aspects of children's immunization status. The analysis examines relationships between vaccination rates, demographic factors like mother’s education level, breastfeeding, and disease occurrences like chickenpox.
 
-The dataset used in this project is contained in the file `assets/NISPUF17.csv`
+The dataset used in this project is contained in the file `NISPUF17.csv`
 ## Tasks
 
 This repository focuses on solving several tasks based on the dataset:
